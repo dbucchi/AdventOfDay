@@ -5,23 +5,23 @@ class Program
     static async Task Main(string[] args)
     {
 
-        Console.WriteLine("Quale script vuoi eseguire?");
-        Console.WriteLine("1. Scarica l'input del giorno");
-        Console.WriteLine("2. Tutti di un deterinato anno");
-        Console.WriteLine("3. L'input di oggi");
+        Console.WriteLine("Which script do you want to run?");
+        Console.WriteLine("1. Download today's input");
+        Console.WriteLine("2. All input of a specific year");
+        Console.WriteLine("3. Today's input");
         int input = GetValidIntInput();
         int year;
         int day;
         switch (input){
             case 1:
-                Console.WriteLine("A che anno vuoi connetterti?");
+                Console.WriteLine("Which year?");
                 year = GetValidIntInput();
-                Console.WriteLine("Che giorno?");
+                Console.WriteLine("Which day?");
                 day = GetValidIntInput();
                 await new DayExtractor(year,day).extract();
                 break;
             case 2:
-                Console.WriteLine("A che anno vuoi connetterti?");
+                Console.WriteLine("Which year?");
                 year = GetValidIntInput();
                 for (int i=1; i<25; i++){
                     await new DayExtractor(year,i).extract();
@@ -46,7 +46,7 @@ class Program
             }
             else
             {
-                Console.WriteLine("Input non valido. Per favore inserisci un numero.");
+                Console.WriteLine("Invalid input. Please enter a number.");
             }
         }
     }
