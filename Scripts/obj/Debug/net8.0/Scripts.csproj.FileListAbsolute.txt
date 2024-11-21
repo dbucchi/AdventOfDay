@@ -1,0 +1,15 @@
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.AssemblyInfoInputs.cache
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.AssemblyInfo.cs
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.csproj.CoreCompileInputs.cache
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.sourcelink.json
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Scripts.exe
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Scripts.deps.json
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Scripts.runtimeconfig.json
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Scripts.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Scripts.pdb
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\refint\Scripts.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.pdb
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.genruntimeconfig.cache
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\ref\Scripts.dll
