@@ -46,11 +46,11 @@ class DayExtractor {
                     await stream.CopyToAsync(fileStream);
                 }
                 
-                Console.WriteLine("File salvato con successo.");
+                Console.WriteLine($"File {this.year}/{this.day} saved successfully.");
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Si è verificato un errore: {ex.Message}");
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
     }
