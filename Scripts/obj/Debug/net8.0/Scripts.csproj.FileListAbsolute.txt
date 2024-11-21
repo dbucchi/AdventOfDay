@@ -13,3 +13,13 @@ C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\refint\Scri
 C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.pdb
 C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.genruntimeconfig.cache
 C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\ref\Scripts.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.csproj.AssemblyReference.cache
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DanieleBucchi\Projects\AdventOfDay\Scripts\obj\Debug\net8.0\Scripts.csproj.Up2Date

@@ -9,16 +9,21 @@ using System.Text;
 using System.Threading;
 using System.Collections.Generic;
 using System.Globalization;
+using Microsoft.Extensions.Configuration;
 
 class DayExtractor {
     int year;
     int day;
-    string cookie;
+    string? cookie;
 
     public DayExtractor(int year, int day){
         this.year = year;
         this.day = day;
-        this.cookie = "53616c7465645f5f981d0c9793adcec5aafaa367cbb0d41cd52414433a21aef8247b5ade71ba0e209be70890f60d25d9f013cb15dd7cc5c4f64bb002b346b225";
+        var configuration = new ConfigurationBuilder()
+            .SetBasePath(Directory.GetCurrentDirectory())
+            .AddJsonFile("config.json")
+            .Build();
+        this.cookie = configuration["Session-Cookie"];
     }
 
     public async Task extract(){
